@@ -1,2 +1,16 @@
 __pycache__/
 *.pyc
+env/
+dist/
+bi
+
+.env
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# crawler output files
+*.csv
+*.xlsx
