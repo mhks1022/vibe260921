@@ -42,3 +42,6 @@ next-env.d.ts
 
 # runtime data (auto-generated from seed data on first run)
 /data/
+
+.vercel
+.env*
